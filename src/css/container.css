@@ -1,19 +1,32 @@
-/* Styles for Mobile devices */
 .container {
+  width: 1150px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.small-title {
+  font-weight: 600;
+  font-size: 16px;
+  display: block;
+  margin-bottom: 8px;
+}
+
+
+/* .container {
   min-width: 320px;
   max-width: 375px;
   margin: 0 auto;
   padding: 0 16px;
 }
-/* Styles for Tablet devices */
+
 @media only screen and (min-width: 768px) {
   .container {
     max-width: 768px;
   }
 }
-/* Styles for Desktop devices */
+
 @media only screen and (min-width: 1200px) {
   .container {
     max-width: 1200px;
   }
-}
+} */

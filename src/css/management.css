@@ -1,0 +1,46 @@
+.management {
+    padding: 50px 0;
+}
+
+.management .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.management-text-wrap {
+    max-width: 486px;
+}
+
+.management-title {
+    font-size: 32px;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.management-text {
+    font-size: 16px;
+    line-height: 1.625;
+    margin-bottom: 30px;
+}
+
+.management-list {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.management-item {}
+
+.management-item-subtitle {
+    font-size: 16px;
+    line-height: 1.625;
+    margin-bottom: 12px;
+}
+
+.management-item-text {
+    font-size: 16px;
+    line-height: 1.625;
+}

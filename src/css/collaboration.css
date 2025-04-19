@@ -1,0 +1,43 @@
+.collaboration {
+    padding: 50px 0;
+}
+
+.collaboration .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.collaboration-text-wrap {
+    max-width: 486px;
+}
+
+.collaboration-title {
+    font-size: 32px;
+    margin-bottom: 25px;
+}
+
+.collaboration-text {
+    font-size: 16px;
+    line-height: 1.62;
+    margin-bottom: 30px;
+}
+
+.collaboration-list {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.collaboration-item {}
+
+.collaboration-item-subtitle {
+    font-size: 16px;
+    line-height: 1.62;
+    margin-bottom: 12px;
+}
+
+.collaboration-item-text {
+    font-size: 16px;
+    line-height: 1.62;
+}
